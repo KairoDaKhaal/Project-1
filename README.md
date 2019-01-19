@@ -1,2 +1,2 @@
 # Project-1
-Web-site of Medical Clinic on HRML and CSS.
+Web-site of Medical Clinic on HTML and CSS.
